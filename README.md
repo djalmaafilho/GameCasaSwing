@@ -1,4 +1,12 @@
-# GameCasaSwing
+# SimpleWalkingGridGame
+
+Simple Game Java Desktop Keyboard Controlled
+
+Developed using Swing for graphical interface. We develop game scenarios designed in a custom panel class.
+We load the game scenarios from text files with standard characters representing elements of the game.
+The purpose of the system is to work concepts such as use of Threads, File Access, Streams, Layered Architecture,
+Enumerated, Events among others addressed during the course of Java that I have taught in some educational institutions.
+
 Pequeno Game Java Desktop controlado por teclado
 
 Desenvolvido usando Swing para interface grafica. Desenvolvemos cenários de jogo desenhados em classe de painel customizada.
